@@ -1,0 +1,3 @@
+/Users/dariatsyganova/Desktop/Parallel_programming/Lab4/cmake-build-debug/CMakeFiles/Lab4.dir
+/Users/dariatsyganova/Desktop/Parallel_programming/Lab4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dariatsyganova/Desktop/Parallel_programming/Lab4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
